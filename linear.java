@@ -18,8 +18,6 @@ public class linear
 	    }
 	    
 	    	System.out.println("number not found");
-	
-	
 
 }
 }

@@ -5,11 +5,11 @@ public class marks {
 	{
 	int x,y,z;
 	Scanner s = new Scanner(System.in);
-	System.out.println("Enter the a marks");
+	System.out.println("Enter the x marks");
 	x = s.nextInt();
-	System.out.println("Enter the b marks");
+	System.out.println("Enter the y marks");
 	y = s.nextInt();
-	System.out.println("Enter the b marks");
+	System.out.println("Enter the z marks");
 	z = s.nextInt();
 	if(x>=60 && y>=60 && z>=60)
 	{
@@ -25,4 +25,3 @@ public class marks {
 	}
 	}}
 	
-

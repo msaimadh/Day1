@@ -6,7 +6,6 @@ public class arm2 {
                      { 
                                 int temp = k; 
                                 int sum = 0;
-
                                 while (temp > 0) 
                                  { 
                                              int d = temp % 10; 
